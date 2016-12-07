@@ -1,3 +1,5 @@
+*8Name:** Liberty Ale
+
 **Description:**
 
 About a month ago, I asked for suggestions on how to duplicate Liberty Ale. This recipe is based on Jim Busch's suggestions. Everyone who replied emphasized dry hopping and Cascade hops. This seems to have done the trick. 
