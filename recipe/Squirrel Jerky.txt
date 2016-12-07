@@ -1,12 +1,12 @@
-Squirrel Jerky
+**Squirrel Jerky**
 
 
-Description
+**Description**
 
 The most flavourful protein source to fight depression during harsh Canadian winters.
 
 
-Ingredients
+**Ingredients**
 
 - A bag of peanuts
 - A mace or golden hammer
@@ -15,7 +15,7 @@ Ingredients
 - 1ml smoke flavour
 
 
-Directions
+**Directions**
 
 - Go in Parc Lafontaine on Plateau Mont-Royal
 - Open bag of peanuts and attract nearby squirrels
@@ -23,3 +23,7 @@ Directions
 - Preserve in coarse salt
 - Add some liquid smoke flavour and let dry under the sun for one week
 - Enjoy the jerky
+
+
+**Source: My own twisted imagination**
+
