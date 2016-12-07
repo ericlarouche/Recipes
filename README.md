@@ -1,2 +1,3 @@
 # thinkful_autodesk_00
-github training
+github training by sweetiewill
+
