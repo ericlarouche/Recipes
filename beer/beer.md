@@ -1,4 +1,4 @@
-*8Name:** Liberty Ale
+**Name:** Liberty Ale
 
 **Description:**
 
